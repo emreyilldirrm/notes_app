@@ -2,8 +2,8 @@
 
 This Markdown file introduces a notes application developed using Flutter. The application has the ability to manage course notes using an SQLite database.
 
-![n2](https://github.com/emreyilldirrm/notes_app/assets/149498114/9233993a-6a0f-490d-8df0-96b985dfbf87)
-![n1](https://github.com/emreyilldirrm/notes_app/assets/149498114/d91fc12b-f744-483c-b186-e9f4eb84f77f)
+![n1](https://github.com/emreyilldirrm/notes_app/assets/149498114/d91fc12b-f744-483c-b186-e9f4eb84f77f) ![n2](https://github.com/emreyilldirrm/notes_app/assets/149498114/9233993a-6a0f-490d-8df0-96b985dfbf87)
+
 ![n3](https://github.com/emreyilldirrm/notes_app/assets/149498114/316772e8-47aa-4207-a3c1-213332fe0bed)
 
 
