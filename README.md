@@ -13,7 +13,9 @@ Features
 Users can add a new course.
 The course name, midterm grade, and final grade must be entered.
 Entered information is saved to the SQLite database.
+
 ![n2](https://github.com/emreyilldirrm/notes_app/assets/149498114/9233993a-6a0f-490d-8df0-96b985dfbf87)
+
 2. **List Courses**
 
 Users can list the added courses.
